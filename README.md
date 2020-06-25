@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/samy0326/jeux/_apis/build/status/samyinfo.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/samy0326/jeux/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
